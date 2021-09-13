@@ -22,12 +22,6 @@ show all reminders
 id: 1, text: make dinner
 
 #me
-clear all reminders
-
-#bot
-Ok, I have cleared all of your reminders.
-
-#me
 remind me to play ball in 10 minutes
 
 #bot
@@ -37,7 +31,7 @@ Ok, I will remind you to play ball in 600 seconds.
 show all reminders
 
 #bot
-id: 2, text: play ball
+id: 1, text: make dinner; id: 2, text: play ball
 
 #me
 clear all reminders

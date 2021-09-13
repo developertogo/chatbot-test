@@ -28,7 +28,3 @@ $ npm test
 ## spec/convo/give_me_a_picture.convo.txt
 
 This file is installed by one of botium packages. I couldn't figure out how to avoid it.
-
-# TODOs
-
-1. Test when there are at least 2 reminders in the queue
