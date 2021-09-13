@@ -1,0 +1,10 @@
+clear reminder
+
+#bot
+Greetings, friend! Type help to get started.
+
+#me
+CLEAR_REMINDER_UTT
+
+#bot
+There is no reminder with id 1.

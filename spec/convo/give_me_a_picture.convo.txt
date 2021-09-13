@@ -1,0 +1,10 @@
+give me picture
+
+#bot
+Greetings, friend! Type help to get started
+
+#me
+help
+
+#bot
+HELP

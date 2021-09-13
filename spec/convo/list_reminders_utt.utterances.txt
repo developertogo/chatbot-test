@@ -1,0 +1,19 @@
+LIST_REMINDERS_UTT
+list reminders
+show reminders
+tell reminders
+list all of my reminders
+show all of my reminders
+tell all of my reminders
+list all my reminders
+show all my reminders
+tell all my reminders
+list all reminders
+show all reminders
+tell all reminders
+list of reminders
+show of reminders
+tell of reminders
+list my reminders
+show my reminders
+tell my reminders

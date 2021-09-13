@@ -1,0 +1,10 @@
+add single reminder
+
+#bot
+Greetings, friend! Type help to get started.
+
+#me
+ADD_SINGLE_REMINDER_UTT
+
+#bot
+Ok, I will remind you to eat dinner in 3600 seconds.

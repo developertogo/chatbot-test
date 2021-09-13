@@ -1,0 +1,10 @@
+clear all reminders
+
+#bot
+Greetings, friend! Type help to get started.
+
+#me
+CLEAR_ALL_REMINDERS_UTT
+
+#bot
+Ok, I have cleared all of your reminders.

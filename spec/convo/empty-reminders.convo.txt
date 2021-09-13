@@ -1,0 +1,23 @@
+empty reminders
+
+#bot
+Greetings, friend! Type help to get started.
+
+#me
+show all reminders.
+
+#bot
+You have no reminders.
+
+#me
+clear all reminders
+
+#bot
+Ok, I have cleared all of your reminders.
+
+#me
+clear reminder 3
+
+#bot
+There is no reminder with id 3.
+

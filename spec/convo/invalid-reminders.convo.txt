@@ -1,0 +1,40 @@
+invalid reminders
+
+#bot
+Greetings, friend! Type help to get started.
+
+#me
+h
+
+#bot
+I'm sorry, I don't understand what you mean.
+
+#me
+show all reminder
+
+#bot
+I'm sorry, I don't understand what you mean.
+
+#me
+clear all reminder
+
+#bot
+I'm sorry, I don't understand what you mean.
+
+#me
+clear all
+
+#bot
+I'm sorry, I don't understand what you mean.
+
+#me
+clear reminder
+
+#bot
+I'm sorry, I don't understand what you mean.
+
+#me
+remind me to make dinner in -1 minute
+
+#bot
+I'm sorry, I don't understand what you mean.

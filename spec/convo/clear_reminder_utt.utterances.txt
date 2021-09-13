@@ -1,0 +1,5 @@
+CLEAR_REMINDER_UTT
+clear reminder 1
+delete reminder 1
+remove reminder 1
+forget reminder 1

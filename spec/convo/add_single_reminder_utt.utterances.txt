@@ -1,0 +1,13 @@
+ADD_SINGLE_REMINDER_UTT
+remind me to eat dinner in a hour
+tell me to eat dinner in a hour
+remind me to eat dinner in an hour
+tell me to eat dinner in an hour
+remind me to eat dinner in a hours
+tell me to eat dinner in a hours
+in a hours remind me to eat dinner
+in a hours tell me to eat dinner
+in a hour remind me to eat dinner
+in a hour tell me to eat dinner
+in an hour remind me to eat dinner
+in an hour tell me to eat dinner

@@ -1,0 +1,17 @@
+CLEAR_ALL_REMINDERS_UTT
+clear all reminders
+delete all reminders
+remove all reminders
+forget all reminders
+clear all of my reminders
+delete all of my reminders
+remove all of my reminders
+forget all of my reminders
+clear my reminders
+delete my reminders
+remove my reminders
+forget my reminders
+clear of reminders
+delete of reminders
+remove of reminders
+forget of reminders

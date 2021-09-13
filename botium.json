@@ -1,0 +1,12 @@
+{
+  "botium": {
+    "Capabilities": {
+      "PROJECTNAME": "ChatBot Project Websocket",
+      "CONTAINERMODE": "websocket",
+      "WEBSOCKET_URL": "ws://127.0.0.1:5555",
+      "WEBSOCKET_REQUEST_BODY_RAW": true,
+      "WEBSOCKET_RESPONSE_RAW": true,
+      "WEBSOCKET_RESPONSE_HOOK":  "handle-response-reminders.js"
+    }
+  }
+}

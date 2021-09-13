@@ -1,0 +1,10 @@
+add long reminder
+
+#bot
+Greetings, friend! Type help to get started.
+
+#me
+ADD_LONG_REMINDER_UTT
+
+#bot
+Ok, I will remind you to rest in 300 seconds.

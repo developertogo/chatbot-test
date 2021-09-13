@@ -1,0 +1,21 @@
+{
+  "name": "websocket-chatbot",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha spec",
+    "mocha": "mocha spec"
+  },
+  "botium": {
+    "convodirs": [
+      "spec/convo"
+    ],
+    "expandConvos": true,
+    "expandUtterancesToConvos": false
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "botium-bindings": "latest",
+    "botium-connector-websocket": "latest",
+    "botium-connector-echo": "latest"
+  }
+}

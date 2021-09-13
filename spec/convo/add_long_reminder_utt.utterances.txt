@@ -1,0 +1,9 @@
+ADD_LONG_REMINDER_UTT
+remind me to rest in 5 minutes
+tell me to rest in 5 minutes
+remind me to rest in 5 minute
+tell me to rest in 5 minute
+in 5 minutes remind me to rest
+in 5 minutes tell me to rest
+in 5 minute remind me to rest
+in 5 minute tell me to rest

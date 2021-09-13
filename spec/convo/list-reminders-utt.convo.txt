@@ -1,0 +1,10 @@
+list reminders
+
+#bot
+Greetings, friend! Type help to get started.
+
+#me
+LIST_REMINDERS_UTT
+
+#bot
+You have no reminders
