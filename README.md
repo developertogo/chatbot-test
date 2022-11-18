@@ -22,6 +22,9 @@ Simply run:
 ```
 $ npm test
 ```
+Below it shows a sample test run:
+
+<img width="609" alt="image" src="https://user-images.githubusercontent.com/649541/202780483-99e7fdad-41b4-4078-86cb-29170f8b5b90.png">
 
 # NOTE
 
